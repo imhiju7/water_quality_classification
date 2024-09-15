@@ -1,1 +1,1 @@
-# Water-Quality-Classification
+# water_quality_classification
